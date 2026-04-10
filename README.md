@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @killua1290
-- 👀 I’m interested in ... Turkey
-- 🌱 I’m currently learning ...php/java sc. 
-- 💞️ I’m looking to collaborate on ...  -
+- 👋 Hi, I’m Muhammed TEFTENAZI
+- 👀 I’m interested in Turkey
+- 🌱 I’m currently learning cpp,c#,html,css,sql 
 - 📫 How to reach me ... -
 
 <!---
